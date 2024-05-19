@@ -1,5 +1,5 @@
 {
-    "name": "fenguoz/bsc-php",
+    "name": "afrocryptomain/bsc",
     "description": "Binance Smart Chain PHP SDK",
     "type": "library",
     "require": {
